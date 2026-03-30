@@ -16,6 +16,10 @@ digitalisation, Part-IS and lightweight software solutions.
 - Web applications (Laravel, React, TypeScript)
 - Mobile applications for iOS and Android (Expo / React Native)
 
+## Stack & tools
+
+Laravel · React · TypeScript · Docker · Coolify
+
 ## Selected work
 
 Most of my work is private, but includes:
